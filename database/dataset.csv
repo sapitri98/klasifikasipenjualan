@@ -1,0 +1,101 @@
+Nomor,Keterangan,Furniture Type,Material,Dimension,Finishing,Accessories,Price
+1,Remark 1,Furniture Type 2,Material 2,1600,Varnish,Accessories 1,Price 3
+2,Remark 2,Furniture Type 2,Material 2,1600,Finishing 2,Accessories 3,Price 5
+3,Remark 3,Furniture Type 3,Triplex,1400,Varnish,Accessories 1,Price 5
+4,Remark 4,Furniture Type 2,Material 3,1100,Varnish,Accessories 3,Price 5
+5,Remark 5,Furniture Type 2,Material 2,1200,Finishing 3,Accessories 1,Price 3
+6,Remark 6,Meja Laptop,Material 2,2000,Varnish,Accessories 1,Price 1
+7,Remark 7,Furniture Type 2,Triplex,1100,Finishing 2,Accessories 3,Price 2
+8,Remark 8,Meja Laptop,Material 2,1400,Varnish,Accessories 3,Price 2
+9,Remark 9,Furniture Type 3,Material 3,1000,Finishing 3,Accessories 1,Price 4
+10,Remark 10,Meja Laptop,Material 2,1800,Finishing 2,Accessories 3,Price 5
+11,Remark 11,Furniture Type 3,Material 3,1000,Finishing 3,Accessories 1,Price 5
+12,Remark 12,Furniture Type 2,Material 2,1700,Varnish,Accessories 3,Price 5
+13,Remark 13,Furniture Type 2,Triplex,1300,Finishing 2,Accessories 1,Price 4
+14,Remark 14,Furniture Type 2,Material 3,1600,Finishing 2,Accessories 3,Price 4
+15,Remark 15,Furniture Type 2,Material 2,1000,Finishing 3,Accessories 3,Price 5
+16,Remark 16,Furniture Type 3,Material 2,1400,Finishing 3,Accessories 1,Price 1
+17,Remark 17,Meja Laptop,Triplex,1700,Finishing 2,Accessories 3,Price 4
+18,Remark 18,Meja Laptop,Material 3,1600,Varnish,Accessories 3,Price 4
+19,Remark 19,Furniture Type 2,Material 3,1600,Varnish,Accessories 3,Price 1
+20,Remark 20,Furniture Type 2,Material 2,1200,Varnish,Accessories 2,Price 1
+21,Remark 21,Furniture Type 3,Triplex,1100,Finishing 3,Accessories 1,Price 3
+22,Remark 22,Furniture Type 2,Material 2,1100,Varnish,Accessories 3,Price 4
+23,Remark 23,Furniture Type 3,Material 3,1300,Finishing 2,Accessories 1,Price 4
+24,Remark 24,Meja Laptop,Material 2,1100,Finishing 3,Accessories 1,Price 2
+25,Remark 25,Furniture Type 2,Triplex,1600,Finishing 3,Accessories 1,Price 1
+26,Remark 26,Furniture Type 3,Material 2,1600,Finishing 2,Accessories 1,Price 2
+27,Remark 27,Furniture Type 2,Triplex,1500,Finishing 3,Accessories 3,Price 3
+28,Remark 28,Furniture Type 2,Material 3,1400,Varnish,Accessories 2,Price 3
+29,Remark 29,Furniture Type 3,Triplex,1700,Finishing 3,Accessories 1,Price 1
+30,Remark 30,Furniture Type 2,Material 3,1000,Varnish,Accessories 2,Price 1
+31,Remark 31,Furniture Type 3,Material 3,1100,Varnish,Accessories 1,Price 5
+32,Remark 32,Meja Laptop,Triplex,1600,Finishing 3,Accessories 2,Price 1
+33,Remark 33,Meja Laptop,Material 3,1500,Finishing 3,Accessories 2,Price 4
+34,Remark 34,Furniture Type 3,Material 2,1600,Finishing 3,Accessories 1,Price 4
+35,Remark 35,Furniture Type 3,Material 3,1800,Finishing 3,Accessories 1,Price 2
+36,Remark 36,Meja Laptop,Material 3,1100,Finishing 3,Accessories 3,Price 5
+37,Remark 37,Furniture Type 2,Triplex,1300,Finishing 2,Accessories 3,Price 2
+38,Remark 38,Meja Laptop,Triplex,2000,Finishing 2,Accessories 3,Price 4
+39,Remark 39,Furniture Type 3,Material 2,1900,Finishing 2,Accessories 3,Price 5
+40,Remark 40,Furniture Type 3,Triplex,1800,Finishing 3,Accessories 1,Price 2
+41,Remark 41,Meja Laptop,Material 2,1000,Varnish,Accessories 3,Price 1
+42,Remark 42,Furniture Type 3,Triplex,1900,Finishing 2,Accessories 1,Price 1
+43,Remark 43,Furniture Type 3,Material 3,1200,Finishing 2,Accessories 2,Price 1
+44,Remark 44,Furniture Type 2,Triplex,1600,Finishing 2,Accessories 1,Price 1
+45,Remark 45,Meja Laptop,Material 3,1200,Finishing 3,Accessories 1,Price 2
+46,Remark 46,Furniture Type 3,Material 2,1100,Varnish,Accessories 2,Price 3
+47,Remark 47,Furniture Type 2,Material 3,1200,Finishing 2,Accessories 2,Price 3
+48,Remark 48,Meja Laptop,Triplex,1400,Finishing 2,Accessories 1,Price 3
+49,Remark 49,Furniture Type 3,Triplex,1400,Finishing 3,Accessories 3,Price 3
+50,Remark 50,Meja Laptop,Material 3,1000,Finishing 2,Accessories 3,Price 4
+51,Remark 51,Meja Laptop,Material 3,1800,Finishing 3,Accessories 1,Price 1
+52,Remark 52,Furniture Type 3,Material 3,1700,Varnish,Accessories 2,Price 5
+53,Remark 53,Meja Laptop,Material 3,1400,Finishing 3,Accessories 3,Price 2
+54,Remark 54,Furniture Type 2,Triplex,1900,Varnish,Accessories 3,Price 1
+55,Remark 55,Furniture Type 2,Material 3,1100,Varnish,Accessories 3,Price 5
+56,Remark 56,Meja Laptop,Material 3,1800,Varnish,Accessories 2,Price 3
+57,Remark 57,Furniture Type 2,Triplex,1700,Varnish,Accessories 3,Price 1
+58,Remark 58,Meja Laptop,Material 3,1000,Finishing 2,Accessories 3,Price 1
+59,Remark 59,Furniture Type 3,Material 3,1000,Varnish,Accessories 2,Price 1
+60,Remark 60,Meja Laptop,Triplex,1100,Finishing 3,Accessories 2,Price 1
+61,Remark 61,Furniture Type 3,Triplex,1500,Varnish,Accessories 2,Price 4
+62,Remark 62,Furniture Type 3,Material 2,1300,Finishing 2,Accessories 3,Price 4
+63,Remark 63,Meja Laptop,Triplex,2000,Varnish,Accessories 2,Price 2
+64,Remark 64,Furniture Type 2,Material 2,2000,Finishing 3,Accessories 1,Price 4
+65,Remark 65,Furniture Type 3,Triplex,1900,Finishing 3,Accessories 1,Price 4
+66,Remark 66,Furniture Type 2,Material 2,1500,Finishing 2,Accessories 2,Price 1
+67,Remark 67,Furniture Type 2,Material 2,1700,Varnish,Accessories 3,Price 5
+68,Remark 68,Furniture Type 3,Material 2,1900,Finishing 3,Accessories 3,Price 4
+69,Remark 69,Furniture Type 2,Material 2,1600,Varnish,Accessories 2,Price 4
+70,Remark 70,Furniture Type 3,Material 3,1200,Finishing 3,Accessories 1,Price 4
+71,Remark 71,Furniture Type 3,Material 3,1200,Finishing 2,Accessories 2,Price 5
+72,Remark 72,Meja Laptop,Material 3,1300,Finishing 2,Accessories 1,Price 2
+73,Remark 73,Furniture Type 3,Triplex,2000,Finishing 3,Accessories 2,Price 5
+74,Remark 74,Meja Laptop,Triplex,1900,Finishing 3,Accessories 1,Price 3
+75,Remark 75,Furniture Type 3,Triplex,1800,Varnish,Accessories 2,Price 5
+76,Remark 76,Furniture Type 3,Material 2,1100,Finishing 2,Accessories 3,Price 3
+77,Remark 77,Furniture Type 2,Material 2,2000,Varnish,Accessories 1,Price 3
+78,Remark 78,Furniture Type 2,Triplex,1700,Varnish,Accessories 3,Price 2
+79,Remark 79,Furniture Type 3,Triplex,1500,Varnish,Accessories 1,Price 4
+80,Remark 80,Furniture Type 2,Triplex,1600,Finishing 3,Accessories 3,Price 4
+81,Remark 81,Furniture Type 3,Triplex,1500,Varnish,Accessories 1,Price 1
+82,Remark 82,Meja Laptop,Material 2,1400,Finishing 3,Accessories 3,Price 3
+83,Remark 83,Furniture Type 2,Material 2,1900,Varnish,Accessories 1,Price 5
+84,Remark 84,Furniture Type 2,Triplex,1900,Finishing 2,Accessories 2,Price 5
+85,Remark 85,Furniture Type 2,Material 3,1000,Finishing 2,Accessories 3,Price 2
+86,Remark 86,Furniture Type 3,Material 2,1400,Varnish,Accessories 3,Price 5
+87,Remark 87,Furniture Type 3,Triplex,1100,Finishing 3,Accessories 2,Price 4
+88,Remark 88,Meja Laptop,Material 3,2000,Finishing 3,Accessories 3,Price 5
+89,Remark 89,Furniture Type 2,Triplex,1800,Varnish,Accessories 3,Price 1
+90,Remark 90,Furniture Type 2,Triplex,1900,Finishing 2,Accessories 1,Price 1
+91,Remark 91,Furniture Type 2,Material 3,1100,Varnish,Accessories 1,Price 5
+92,Remark 92,Meja Laptop,Material 2,1900,Varnish,Accessories 2,Price 1
+93,Remark 93,Meja Laptop,Material 2,1100,Finishing 2,Accessories 3,Price 2
+94,Remark 94,Furniture Type 3,Material 2,1800,Varnish,Accessories 3,Price 3
+95,Remark 95,Meja Laptop,Material 2,1900,Varnish,Accessories 2,Price 5
+96,Remark 96,Meja Laptop,Material 3,1100,Finishing 2,Accessories 2,Price 4
+97,Remark 97,Furniture Type 2,Triplex,1900,Finishing 3,Accessories 1,Price 2
+98,Remark 98,Meja Laptop,Triplex,1200,Varnish,Accessories 1,Price 4
+99,Remark 99,Furniture Type 3,Triplex,1100,Varnish,Accessories 1,Price 4
+100,Remark 100,Furniture Type 3,Material 3,1900,Varnish,Accessories 1,Price 5

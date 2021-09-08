@@ -1,0 +1,6 @@
+list untuk revisi admin dan pemilik:
+1. modal untuk tambah di menu barang
+2. tampilan untuk laporan penjualnya diperbaiki karena belum full dan belum ada tabelnya
+3. show entries jika data lebih dari 10 maka data berikutnya di tampilkan ke halaman 2
+4. hapus di menu barang
+

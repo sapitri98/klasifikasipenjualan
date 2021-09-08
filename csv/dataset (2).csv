@@ -1,0 +1,35 @@
+Nomor,Keterangan,Kasus Positif,Kasus Sembuh,Kasus Meninggal,Indikator
+1,Dki Jakarta,319293,297641,5010,Zona Hijau
+2,Jawa Barat,179982,150916,2132,Zona Merah
+3,Jawa Tengah,143419,91420,6016,Zona Merah
+4,Jawa Timur,123280,109978,8668,Zona Kuning
+5,Sulawesi Selatan,52959,48088,809,Zona Kuning
+6,Kalimantan Timur,49856,40451,1171,Zona Merah
+7,Bali,30821,27313,823,Zona Kuning
+8,Riau,30277,28562,729,Zona Hijau
+9,Sumbar,28236,26405,636,Zona Hijau
+10,Banten,27675,19892,604,Zona Merah
+11,D.I. Yogyakarta,25335,19096,599,Zona Merah
+12,Sumut,23108,19862,789,Zona Kuning
+13,Kalsel,19978,17562,694,Zona Kuning
+14,Papua,16135,8887,171,Zona Merah
+15,Sumsel,15253,13107,733,Zona Kuning
+16,Sulut,14629,11057,488,Zona Merah
+17,Kalteng,12856,11516,338,Zona Kuning
+18,Lampung,11603,9283,602,Zona Merah
+19,Sultenggara,9858,8892,190,Zona Kuning
+20,Aceh,9403,7762,382,Zona Merah
+21,Sulteng,9346,6777,232,Zona Merah
+22,Kalut,8811,5757,133,Zona Merah
+23,Kepri,8514,7923,209,Zona Hijau
+24,Ntb,8158,6585,336,Zona Merah
+25,Ntt,7517,4685,199,Zona Merah
+26,Papua Barat,7036,6392,119,Zona Kuning
+27,Maluku,6769,5982,103,Zona Kuning
+28,Babel,6278,5382,99,Zona Kuning
+29,Jambi,5091,3849,77,Zona Merah
+30,Sulbar,4921,2941,93,Zona Merah
+31,Bengkulu,4743,4475,146,Zona Hijau
+32,Gorontalo,4643,4212,124,Zona Kuning
+33,Kalbar,4299,2931,32,Zona Merah
+34,Maluku Utara,3886,3111,110,Zona Merah
